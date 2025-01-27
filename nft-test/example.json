@@ -1,10 +1,10 @@
 {
-    "name": "U r gay",
-    "symbol": "URG",
+    "name": "Thunder Token",
+    "symbol": "THT",
     "description": "A test for our NFT example.",
     "seller_fee_basis_points": 550,
     "external_url": "",
     "edition": "",
     "background_color": "80ded0",
     "image": "https://raw.githubusercontent.com/EdelweissPirate/safedatadump/refs/heads/main/nft-test/homer.jpg"
-}
+  }
