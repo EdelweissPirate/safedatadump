@@ -1,0 +1,10 @@
+{
+    "name": "U r gay",
+    "symbol": "URG",
+    "description": "A test for our NFT example.",
+    "seller_fee_basis_points": 550,
+    "external_url": "",
+    "edition": "",
+    "background_color": "80ded0",
+    "image": "https://raw.githubusercontent.com/EdelweissPirate/solana-nft-test/refs/heads/main/assets/homer.jpg?token=GHSAT0AAAAAACVAC76PUWD3BL4RAKARW2OUZ4XLCYA"
+}
